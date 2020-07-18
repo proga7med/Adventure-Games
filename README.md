@@ -1,5 +1,5 @@
 #  Adventure Games
 
-I created some simple games using Python
-  - Rock, Paper, Scissors game.
-  - Text adventure game.
+I developed some simple games which are based on some videos using Python 
+  - Rock, Paper, Scissors game --> https://www.youtube.com/watch?v=5wfxO_juzYM.
+  - Text adventure game --> https://www.youtube.com/watch?v=DEcFCn2ubSg
